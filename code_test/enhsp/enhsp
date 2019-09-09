@@ -1,0 +1,3 @@
+#!/bin/bash 
+
+    java -classpath /home/fraleo/Documents/hybridsystems/documents/francesco/omtplan/enhsp/src/:/home/fraleo/Documents/hybridsystems/documents/francesco/omtplan/enhsp/libs/PPMaJal2.jar:/home/fraleo/Documents/hybridsystems/documents/francesco/omtplan/enhsp/libs/* ENHSP "$@"
